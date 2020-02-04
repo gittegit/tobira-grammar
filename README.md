@@ -9,3 +9,5 @@ After that, you can import the csv file and the learning order will be affected 
 
 # lessons which are done
 - Lesson 1
+- Lesson 2
+- Lesson 3
