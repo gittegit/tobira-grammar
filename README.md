@@ -7,7 +7,12 @@ If you already reviewed grammar from a specific lesson, then new grammar cards w
 To import the csv file, delete all not yet learned cards by selecting all the cards which have a Due number instead of a Due date.
 After that, you can import the csv file and the learning order will be affected by the in-line added rows.
 
-# lessons which are done
+# lessons with new grammar points
 - Lesson 1
 - Lesson 2
 - Lesson 3
+- Lesson 4
+
+# lessons fixed
+- Lesson 1
+- Lesson 2
