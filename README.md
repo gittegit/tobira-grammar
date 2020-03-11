@@ -15,6 +15,8 @@ After that, you can import the csv file and the learning order will be affected 
 - Lesson 5
 - Lesson 6
 - Lesson 7
+- Lesson 8
+- Lesson 9
 
 # lessons fixed
 - Lesson 1
